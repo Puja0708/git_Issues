@@ -15,8 +15,8 @@
   <a href = "index.html"> Go Back to Home Page </a> <br/><br/>
   <form class="form-horizontal" role="form" action="" method="POST">
     <div class="form-group">
-      <label class="control-label col-sm-2" for="email">Github Repo : </label>
-      <div class="col-sm-10">''
+      <label class="control-label col-sm-2" >Github Repo : </label>
+      <div class="col-sm-10">
         <input type="text" class="form-control" id="url" name="url" placeholder="Try another url" pattern="https://github.com/[A-Za-z0-9._]*/[A-Za-z0-9._]*/issues"> 
       </div>
     </div>
